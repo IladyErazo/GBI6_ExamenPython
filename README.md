@@ -15,5 +15,7 @@
  - Tipo de sistema: Sistema operativo de 64 bits, procesador basado en x64
  
 # Versión de Python/Anaconda y de cada uno de los módulos/paquetes y utilizados
+- Python 3.10.6
+- Anaconda 2.1.1
 # Explicación de la data utilizada
 # Un diagrama de procesos del módulo miningscience
