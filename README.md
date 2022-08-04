@@ -18,4 +18,5 @@
 - Python 3.10.6
 - Anaconda 2.1.1
 # Explicación de la data utilizada
+- Para el Cancer y la Zika se utilizo la data de pubmed, y para el map se tomaron ciudades de Estado Unidos.
 # Un diagrama de procesos del módulo miningscience
